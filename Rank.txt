@@ -1,7 +1,0 @@
-BANG XEP HANG
-Hang 1:     Xe 1
-Hang 2:     Xe 2
-Hang 3:     Xe 5
-Hang 4:     Xe 3
-Hang 5:     Xe 4
-BAN THUA
